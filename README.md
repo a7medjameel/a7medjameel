@@ -34,10 +34,43 @@
 <!-- Socials -->
 <div align="center">
   
-## 🌐 Contact with me 🍬
+## 🌐 Contact with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedjameelabunasser) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7hmed.abunasser) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:ahmedjameelabunasser@gmail.com)
 </div>
+<!-- Socials -->
+<div align="center">
 
+  <h2>🌐 Connect with Me 🍬</h2>
+
+  <a href="https://discord.gg/salahaldin_11" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+  </a>
+
+  <a href="https://facebook.com/salah.alden.33" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <a href="https://instagram.com/_.salahaldin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="https://linkedin.com/in/salahaldinhameed" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://kaggle.com/salahaldin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=Kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+
+  <a href="https://x.com/technologyhell" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+  </a>
+
+  <a href="mailto:salahaldianhamid@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
 ---
 
 <div align="center">
