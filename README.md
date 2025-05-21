@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Abu-Nasser
+# 👋 Hi, I'm Ahmed Abu Nasser
 
 <div align="center">
   <h3>🌍 From Palestine <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg" alt="Palestinian Flag" width="30"/></h3>
