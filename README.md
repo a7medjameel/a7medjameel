@@ -16,7 +16,7 @@
 
 <div align="center">
   <h3>👨‍💻 About Me:</h3>
-  <p><strong>🌐 Web Developer</strong></p>
+  <p><strong>🌐 Web Developer | Laravel Developer</strong></p>
 </div>
 
 ---
@@ -35,7 +35,7 @@
 <div align="center">
   
 ## 🌐 Contact with me 🍬
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salah.alden.33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.salahaldin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salahaldinhameed) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:ahmedjameelabunasser@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmedjameelabunasser) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7hmed.abunasser) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:ahmedjameelabunasser@gmail.com)
 </div>
 
 ---
